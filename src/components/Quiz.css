@@ -56,3 +56,11 @@
     font-size: 18px;
     margin-top: 7px;
 }
+.container .correct{
+    background-color: #dffff2;
+    border-color: #00d397;
+}
+.container .incorrect{
+    background-color: #FFEBEB;
+    border-color: #FF4A4A;
+}
