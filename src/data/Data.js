@@ -6,7 +6,7 @@ export const Data = [
   },
   {
     question: "Which country was divided into two parts by the Berlin Wall?",
-    options: ["France", "Germany", "Austria", "Poland"],
+    options: ["France", "Germany", "Austria", "India"],
     answer: 2
   },
   {
@@ -16,12 +16,12 @@ export const Data = [
   },
   {
     question: "Which of these buildings is in India?",
-    options: ["Eiffel Tower", "Colosseum", "Taj Mahal", "Statue of Liberty"],
+    options: ["Eiffel Tower", "Thanjai", "Taj Mahal", "Statue of Liberty"],
     answer: 3
   },
   {
     question: "Which fruit is known as the 'King of Fruits'?",
-    options: ["Mango", "Durian", "Jackfruit", "Banana"],
+    options: ["Mango", "Apple", "Jackfruit", "Banana"],
     answer: 1
   }
 ];
